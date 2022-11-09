@@ -184,7 +184,7 @@ section .color:nth-child(3) {
 
 
 .form .inputBox input::placeholder {
-	color: rgb(49, 146, 153);
+	color: rgb(17, 25, 26);
 }
 
 .form .inputBox input[type="submit"] {
